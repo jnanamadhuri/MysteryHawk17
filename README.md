@@ -13,7 +13,7 @@
 - ⚡ Fun fact**Yeah I could cook sometimes  :)**
 
 
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MysteryHawk17&theme=tokyonight" />
+<img width="75%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MysteryHawk17&theme=tokyonight" />
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MysteryHawk17&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 
 <h3 align="left">Languages and Tools:</h3>
