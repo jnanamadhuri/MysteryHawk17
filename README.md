@@ -11,7 +11,7 @@
     - **Discord:MysteryHawk17#4508**
     - **Telegram:@MysteryHawk17**
 
-- ⚡ Fun fact**Yeah I could cook sometimes  :)**
+- ⚡ Fun fact **Yeah I could cook sometimes  :)**
 
 <p align="center" ><img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=MysteryHawk17&theme=tokyonight" /></p>
 
