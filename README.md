@@ -7,8 +7,9 @@
 
 - 💬 Ask me about **React,Node Js Vanilla Js**
 
-- 📫 How to reach me **Discord:MysteryHawk#4508**
-
+- 📫 How to reach me 
+    - **Discord:MysteryHawk17#4508**
+    - **Telegram:@MysteryHawk17**
 
 - ⚡ Fun fact**Yeah I could cook sometimes  :)**
 
