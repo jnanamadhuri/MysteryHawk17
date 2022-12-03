@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MysteryHawk17&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m a  **MERN STACK** developer.
 
 - 💬 Ask me about **React,Node Js Vanilla Js**
 
